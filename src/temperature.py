@@ -8,3 +8,4 @@ def f_to_k(temp):
     return converted
 
 print(f_to_k(32))
+print(f_to_k(212))
